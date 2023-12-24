@@ -1,9 +1,9 @@
 {
-  "name": "mern",
+  "name": "react",
   "private": true,
   "version": "0.0.1", 
   "type": "module",
-  "homepage": "https://shohag05.github.io/mern",
+  "homepage": "https://shohag05.github.io/react",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
